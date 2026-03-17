@@ -1,3 +1,4 @@
+# Sales_Dashboard_Excel
 An E**xcel dashboard** is a visual representation of data that allows users to monitor, analyze, and track key performance indicators (KPIs) or metrics in a concise and interactive manner. It typically consists of multiple charts, graphs, tables, and other visual elements, all combined on a single sheet or across multiple sheets, to provide a comprehensive view of the data.
 
 Key characteristics of an Excel dashboard include:
